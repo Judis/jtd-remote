@@ -1,10 +1,10 @@
 ---
 title: Test-(copy)
-has_children: true
+has_children: false
 nav_order: 2
 published: false
 
 ---
-# Another page
+# Copy of page
 
 Test this
